@@ -1,0 +1,12 @@
+.heading{
+    font-size: 30px;
+}
+body{
+    background-color: aquamarine;
+}
+.image{
+    width:350px;
+    height:300px;
+    border-width:2px;
+    border-style: dashed;
+}
